@@ -1,0 +1,9 @@
+Warning[203] D:\MICROMPLAB\EX1EJ3.X\EJERCICIO3.ASM 6 : Found opcode in column 1. (GOTO)
+Message[302] D:\MICROMPLAB\EX1EJ3.X\EJERCICIO3.ASM 22 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] D:\MICROMPLAB\EX1EJ3.X\EJERCICIO3.ASM 68 : Using default destination of 1 (file).
+Message[305] D:\MICROMPLAB\EX1EJ3.X\EJERCICIO3.ASM 71 : Using default destination of 1 (file).
+Message[305] D:\MICROMPLAB\EX1EJ3.X\EJERCICIO3.ASM 73 : Using default destination of 1 (file).
+Message[305] D:\MICROMPLAB\EX1EJ3.X\EJERCICIO3.ASM 97 : Using default destination of 1 (file).
+Message[305] D:\MICROMPLAB\EX1EJ3.X\EJERCICIO3.ASM 99 : Using default destination of 1 (file).
+Message[305] D:\MICROMPLAB\EX1EJ3.X\EJERCICIO3.ASM 101 : Using default destination of 1 (file).
+Warning[205] D:\MICROMPLAB\EX1EJ3.X\EJERCICIO3.ASM 106 : Found directive in column 1. (END)
